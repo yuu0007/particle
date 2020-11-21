@@ -1,7 +1,7 @@
 {
   "name": "particle",
   "version": "1.0.0",
-  "description": "",
+  "description": "cool",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
